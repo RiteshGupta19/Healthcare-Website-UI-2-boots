@@ -1,0 +1,56 @@
+img{
+  height: 450px;
+}
+#indi{
+  width: 10px;
+  height: 7px;
+  border: 2px solid white;
+  border-radius: 50px;
+}
+.indi{
+  width: 2.7%;
+}
+.caro{
+  width: 230px;
+  height: 200px;
+}
+#in{
+  width: 8px;
+  height: 8px;
+  border: 1px solid green;
+  border-radius: 50px;
+}
+.icons{
+  height: 25%;
+  border-radius: 50px;
+  background-color: rgb(228, 246, 228);
+}
+.bord{
+  border: 4px solid rgb(255, 255, 255);
+  border-top-color: green;
+  border-bottom-color: green;
+  box-shadow: 1px 1px 17px rgb(219, 214, 214);
+}
+.inp{
+  width: 98%;
+  height: 40px;
+  font-size: 22px;
+  border: 1px solid rgb(219, 210, 210);
+}
+.con{
+  text-align: justify;
+}
+.ta{
+  width: 98%;
+  height: 200px;
+  font-size: 22px;
+  border: 1px solid rgb(219, 210, 210);
+}
+@media(max-width:700px){
+  .indi{
+    width: 7%;
+  }
+  .wi{
+    width: 100%;
+  }
+}
